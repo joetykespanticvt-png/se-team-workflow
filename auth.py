@@ -1,1 +1,1 @@
-def authenticate_user(credentials): return "Student B Code"
+def login(user, password): return "Student A Version"
