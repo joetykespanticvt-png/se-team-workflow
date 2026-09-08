@@ -1,1 +1,1 @@
-def login(user, password): return "Student A Version"
+def login(user, password): return "Student A Code"
